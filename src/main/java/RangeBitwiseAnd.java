@@ -5,6 +5,7 @@ import java.math.BigInteger;
  * @Description: 数字范围按位与
  * @author: D
  * @create: 2020-07-01 16:09
+ *
  **/
 
 public class RangeBitwiseAnd {
