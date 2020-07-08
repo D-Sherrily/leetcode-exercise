@@ -1,4 +1,3 @@
-import java.math.BigInteger;
 
 /**
  * @ClassName: RangeBitwiseAnd
